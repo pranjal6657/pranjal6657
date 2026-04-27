@@ -18,33 +18,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 🔥 FocusGuard — Distraction Control System
-
-> A real-time system that detects and blocks distracting apps automatically.
-
-* 🔍 Monitors active window using Windows API
-* 🚫 Automatically closes apps like YouTube, Instagram
-* ⚡ Built using Go for high performance
-* 📊 Tracks focus time and productivity
-
-👉 [View Project](https://github.com/pranjal6657/FocusGuard-Distraction-Control-System)
-
----
-
-## 🛠️ Tech Stack
-
-* 💻 Languages: **Go, Python**
-* ⚙️ Tools: **Git, GitHub, PowerShell**
-* 🧠 Concepts:
-
-  * Operating Systems
-  * Networking
-  * Cyber Security
-  * Automation
-
----
 
 ## 📈 What I'm Working On
 
