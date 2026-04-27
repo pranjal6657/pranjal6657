@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pranjal
 
-🚀 **B.Tech Student | Cloud Technology & Information Security (CTIS)**
+🚀 **B.Tech Student **
 💻 Passionate about building real-world systems using **Go, Python, and system-level programming**
 
 ## 🌐 Socials:
